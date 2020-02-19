@@ -2,13 +2,13 @@
 
 You're writing a program (function) to make a one round play between two players
 
-In general, given two letter input (```cc```, ```cp```, ```pc``` or ```pp```), preapre a game between two players.
+In general, __given two letter input__ (```cc```, ```cp```, ```pc``` or ```pp```), preapre a game between two players.
 
 The first letter is the first player type, the second letter is the second player type:
 * `c` - computer, 
 * `p` - player
 
-You should call a corresponding program for player1, and then corresponding program for player2. Both players score should be stored. Then, determine which player wins. To find the winner check which player score is __closer to 21__, but the score __must not be greater than 21__
+You should call a corresponding program for player1, and then corresponding program for player2. Both player's scores should be stored. Then, __determine who wins__. To find the winner check which player score is __closer to 21__, but the score __must not be greater than 21__
 
 For example:
 * For input ```pc```, you should call program from _step 3_ (player), then program from _step 4_ (computer).
