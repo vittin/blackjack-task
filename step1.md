@@ -11,3 +11,6 @@ For example
  - given a ```20``` and ```2``` as input, the result should be ```-1```
  - given a ```11``` and ```13``` as input, the ```11``` __should not__ be 'converted' into a ```1```, so the total sum will be ```24```- the result should be ```-1```
  - given a ```13``` and ```11``` as input, the ```11``` should be 'converted' into a ```1```, so the result will be ```14```
+
+
+##### [Done? Move to next step](step2.md)

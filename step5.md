@@ -13,4 +13,7 @@ You should call a corresponding program for player1, and then corresponding prog
 For example:
 * For input ```pc```, you should call program from _step 3_ (player), then program from _step 4_ (computer).
 * For input ```pp```, you should call program from _step 3_ twice.
-* For input ```cc```, you should call program from _step 4_ twice. Take a note that you should provide `opponent_score` for first computer player, and that score is not existing yet - to resolve that problem you could provide any value between 0 and 21 as a "target" - let's try some values to find the best strategy! ;) 
+* For input ```cc```, you should call program from _step 4_ twice. Take a note that you should provide `opponent_score` for first computer player, and that score is not existing yet - to resolve that problem you could provide any value between 0 and 21 as a "target" - let's try some values to find the best strategy! ;)
+
+##### [Done? Move to next step](step6.md)
+ 

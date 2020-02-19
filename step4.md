@@ -12,3 +12,5 @@ In the case that one of the following is true:
  * program output is greater than ```opponent_score```
  
 you should display the player ```score``` and return it.
+
+##### [Done? Move to next step](step5.md)

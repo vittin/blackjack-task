@@ -13,3 +13,6 @@ In the case that one of the following is true:
  * player input is not ```y```,
  
 you should display the player ```score``` and return it.
+
+##### [Done? Move to next step](step4.md)
+
