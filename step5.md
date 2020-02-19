@@ -2,7 +2,7 @@
 
 You're writing a program (function) to make a one round play between two players
 
-In general, given two letter input (```cc```, ```cp```, ```pc``` or ````pp```), preapre a game between two players.
+In general, given two letter input (```cc```, ```cp```, ```pc``` or ```pp```), preapre a game between two players.
 
 The first letter is the first player type, the second letter is the second player type:
 * `c` - computer, 
